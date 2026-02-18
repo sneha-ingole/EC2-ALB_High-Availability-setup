@@ -15,14 +15,23 @@ The Application Load Balancer distributes incoming traffic between two EC2 insta
 
 🏗️ Architecture
                 Internet
+                
                     |
+                    
           ---------------------
+          
           | Application Load  |
+          
           |     Balancer      |
+          
           ---------------------
+          
              |              |
+             
         -----------      -----------
+        
         | Server A |      | Server B |
+        
         -----------      -----------
 
 

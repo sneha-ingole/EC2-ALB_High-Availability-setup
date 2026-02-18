@@ -70,13 +70,19 @@ SSH (22)
 HTTP (80)
 
 💻 User Data Script (Server A)
+
 #!/bin/bash
+
 yum update -y
+
 yum install httpd -y
+
 systemctl start httpd
+
 systemctl enable httpd
 
-echo "<h1>Server A</h1>" > /var/www/html/index.html
+echo "<h1>Server A</h1>" > 
+/var/www/html/index.html
 
 💻 User Data Script (Server B)# EC2-ALB_High-Availability-setup
 

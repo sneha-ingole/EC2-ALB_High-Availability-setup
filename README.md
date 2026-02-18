@@ -164,3 +164,10 @@ Auto traffic distribution
 
 Scalable architecture design
 
+
+<img width="1898" height="1064" alt="Screenshot 2026-02-18 180905" src="https://github.com/user-attachments/assets/401e29ae-6a72-4290-9485-543b2557ebc3" />
+
+<img width="1905" height="1065" alt="Screenshot 2026-02-18 180928" src="https://github.com/user-attachments/assets/5bb16763-fcc8-4623-aff4-6762f8662d55" />
+
+
+
